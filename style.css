@@ -1,0 +1,59 @@
+body{
+  background-color:rgb(174, 232, 233);
+  font-style:italic;
+  margin:0;
+  padding:0;
+}
+.subtitle{
+  text-align: center;
+}
+#heading{
+  text-align: center;
+}
+#container{
+  background-color:rgb(174, 232, 233);
+  margin: solid black;
+  
+}
+}
+
+.heading{
+    border: 10px  solid rgb(50, 79, 197);
+    padding:30px 10px;
+    margin: 10px auto;
+     grid-column: 1 / -1; /* full width in grid */
+  border: 10px solid rgb(50, 79, 197);
+  padding: 30px 10px;
+  margin: 10px auto;
+  background: white;
+  border-radius: 8px;
+}
+.intro{
+  color: rgb(86, 35, 44);
+}
+#services{
+background-color: rgb(53, 145, 176);
+border: solid black;
+padding: 3px;
+margin: 45px;
+}
+#apps{background-color: rgb(53, 145, 176);
+border: solid black;
+padding: 3px;
+margin: 45px;}
+
+#image{
+  border:solid black;
+  padding: 3px;
+  width:30%;
+   
+}
+#form{
+ 
+  border:solid rgb(47, 0, 128);
+  padding: 34px;
+  margin: 234px;
+   display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
